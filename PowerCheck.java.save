@@ -1,0 +1,4 @@
+package mypkg;
+class PowerCheck{
+	public static void main(String[] args){
+		
