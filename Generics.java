@@ -1,4 +1,5 @@
 package mypkg;
+// before JDK 5 there was no Generic class so we use this class //
 /*class Data{
 	private Object x;
 	public Data(Object a){
@@ -20,7 +21,7 @@ class Data<T>{
 	public void setX(T b){
 		this.x=b;
 	}
-	public Object getX(){
+	public T getX(){
 		return x;
 	}
 }

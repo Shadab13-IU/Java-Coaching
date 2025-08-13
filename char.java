@@ -1,4 +1,4 @@
-package mypkg;
+/package mypkg;
 class CharDemo{
 	/*char g='\u0041';
 	float a=3.15f;
